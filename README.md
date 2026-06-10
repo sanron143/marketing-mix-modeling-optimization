@@ -1,15 +1,4 @@
-Here is the complete, professional `README.md` file for your **Multi-Channel Marketing Mix Modeling (MMM) & Optimization Engine** project. It is structured exactly like a top-tier data scientist’s or analytics manager's portfolio, leading with business value, explaining the technical steps in clean terms, and showcasing clear corporate impact.
 
-### How to add this to your project in VS Code:
-
-1. Open your project folder in VS Code.
-2. In the left sidebar, right-click on an empty space (outside of any folders) and select **New File**.
-3. Name it exactly **`README.md`** (capitalization matters).
-4. Copy the complete code block below and paste it directly into that file. Save it (`Ctrl + S` or `Cmd + S`).
-
----
-
-```markdown
 # Multi-Channel Marketing Mix Modeling (MMM) & Budget Optimization Engine
 
 ## 📊 Executive Summary & Business Case
